@@ -110,8 +110,8 @@ The best performance was achieved with the prompt: **`Review says: '{}' -> The s
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/your-username/Prompt-Tuning-for-Sentiment-Analysis.git
+    cd Prompt-Tuning-for-Sentiment-Analysis
     ```
 2.  **Install dependencies:**
     ```bash
