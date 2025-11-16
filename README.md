@@ -100,7 +100,6 @@ The best performance was achieved with the prompt: **`Review says: '{}' -> The s
 .
 ├── hardpt.ipynb        # Jupyter Notebook for Hard Prompt Tuning with DistilGPT-2
 ├── softpt.ipynb        # Jupyter Notebook for Soft Prompt Tuning with BERT
-├── assignment.pdf      # The original assignment description (in Persian)
 ├── hardpt.png          # Confusion matrix for the hard prompt model
 ├── softpt.png          # Confusion matrix for the soft prompt model
 └── readme.md           # This file
